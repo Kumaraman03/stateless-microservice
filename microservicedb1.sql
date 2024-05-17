@@ -1,0 +1,1 @@
+SELECT * FROM microservisesdb1.journals;
